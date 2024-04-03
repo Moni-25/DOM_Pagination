@@ -1,0 +1,33 @@
+body {
+    background-color: #bbbb77;
+    color: black;
+  }
+  
+  #nav-bar {
+    position: relative;
+    top: 12cm;
+  }
+
+  #title{
+    text-align: center;
+    margin-top: 3%;
+  }
+  
+  #description {
+    font-size: large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+  }
+  #table-head {
+    color: rebeccapurple;
+    text-align: center;
+    font-weight: bold;
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-shadow: 1px 1px 1px red;
+  }
+  
+  #t-body {
+    color: black;
+    text-align: center;
+  }
